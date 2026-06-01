@@ -1,9 +1,17 @@
+# WRITEY - Premium Ebook Maker
+# 설치: pip install -r requirements.txt
+# 실행: streamlit run "ebook (36).py"
+
 streamlit
-requests
+streamlit-javascript
+extra-streamlit-components
+
+# AI 모델
 anthropic
 google-generativeai
 google-genai
-youtube-transcript-api
-streamlit-javascript
-extra-streamlit-components
+
+# 문서 생성 / 기타
 python-docx
+requests
+youtube-transcript-api
